@@ -16,10 +16,27 @@ to specify exactly what changes you'd like to use for a commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+The staging area allows you to specify exactly what changes
+you'd like to use for a commit. Using it helps a developer
+insure that they have one commit per logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches would be helpful in cases where you'd like to create
+experimental changes or alternate versions of files. This
+allows you to do the changes without worrying about messing up
+the original version. This would allow you to take more risks
+and be a bit more bold in your experimentations because you
+don't need to worry about mistakes as much as you would
+otherwise.
+
 How do the diagrams help you visualize the branch structure?
+
+Diagrams help me visualize the branch structure by giving me
+a visual representation of how it all works. By using a diagram,
+I can see how the different branches relate to the master branch
+and where they are in relation to the commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
